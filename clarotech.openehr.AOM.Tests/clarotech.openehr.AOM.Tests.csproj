@@ -17,7 +17,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\src\Base\Base.csproj" />
+    <ProjectReference Include="..\clarotech.openehr.AOM\clarotech.openehr.AOM.csproj" />
   </ItemGroup>
 
   <ItemGroup>
